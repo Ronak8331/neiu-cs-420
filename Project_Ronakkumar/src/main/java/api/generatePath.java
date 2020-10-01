@@ -12,18 +12,19 @@ public class generatePath {
 
     private final String path;
     private final InputStream input;
+    RandomWriter rw;
 
     public generatePath(String fileName, InputStream input) throws URISyntaxException {
         this.path = createFile(fileName);
         this.input = input;
     }
 
-    public void dataWriter()
+    public void dataWriter(String para, String arrName)
     {
         try {
-            RandomWriter rw = new RandomWriter(this.path);
+            rw = new RandomWriter(this.path);
             //System.out.println(this.input);
-            rw.writeOnJson(this.input);
+            rw.writeOnJson(this.input,para,arrName);
         }
         catch (FileNotFoundException e)
         {
@@ -35,6 +36,9 @@ public class generatePath {
         }
     }
 
+    public long getId(){
+        return(rw.getCityId());
+    }
     private String createFile(String fileName) throws URISyntaxException {
         String initialPath = ClassLoader.getSystemClassLoader().getResource("").toURI().getPath();
         initialPath = initialPath.substring(0,initialPath.indexOf("classes"));

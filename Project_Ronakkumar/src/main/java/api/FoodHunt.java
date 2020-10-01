@@ -21,14 +21,15 @@ public class FoodHunt {
     private String city;
     //private String restaurant;
 
-    public FoodHunt(String city)
+    public FoodHunt()
     {
-        this.city = city;
+        //this.city = city;
         //this.restaurant = restaurant;
+
     }
 
-    public InputStream makeConnection() throws IOException {
-        URL url = getApiURL();
+    public InputStream makeConnection(String pathOfApi , String query) throws IOException {
+        URL url = getApiURL(pathOfApi,query);
         connection = (HttpURLConnection) url.openConnection();
         connection.setConnectTimeout(connectTime);
         connection.setRequestMethod(HttpMethod.GET);
@@ -38,23 +39,17 @@ public class FoodHunt {
         if(connection.getResponseCode() == 200)
         {
             final InputStream inputStream = connection.getInputStream();
-            //System.out.println(inputStream);
             return inputStream;
         }
         return null;
     }
 
-    private URL getApiURL() throws MalformedURLException
+    private URL getApiURL(String pathOfApi, String Query) throws MalformedURLException
     {
-        String urlString = "https://developers.zomato.com/api/v2.1/cities"+"?q="+this.city;
+        String urlString = pathOfApi+Query;
         //System.out.println(urlString);
         URL url = new URL(urlString);
         return url;
     }
-
-
-
-
-
 
 }
