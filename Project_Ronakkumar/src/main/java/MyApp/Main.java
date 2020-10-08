@@ -19,13 +19,18 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws IOException, URISyntaxException {
         primaryStage.setTitle("Cuisines according to City Name");
-        CityNames cityNames = new CityNames();
-        ArrayList<String> allCities = cityNames.getCity();
+        ArrayList<String> allCities = new ArrayList<>();
+
+        for(City c:City.values())
+        {
+            allCities.add(c.toString());
+        }
+
         ComboBox combo_box = new ComboBox(FXCollections.observableArrayList(allCities));
         ListView listView = new ListView();
         Text num_of_cuisine = new Text();
         TilePane tile_pane = new TilePane(combo_box,listView,num_of_cuisine);
-        Scene scene = new Scene(tile_pane, 1000, 1000);
+        Scene scene = new Scene(tile_pane, 700, 700);
         primaryStage.setScene(scene);
         primaryStage.show();
         combo_box.setOnAction((event)->{String temp = (String)combo_box.getSelectionModel().getSelectedItem();
