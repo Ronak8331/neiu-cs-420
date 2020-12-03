@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version'0.0.9'
+}
+
+group 'neiu.420.cs'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.11
+
+allprojects {
+    wrapper {
+        gradleVersion = '6.6.1'
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed", "standardOut", "standardError"
+    }
+}
+
+dependencies {
+    implementation "org.junit.jupiter:junit-jupiter-engine:5.6.2"
+    implementation "org.junit.jupiter:junit-jupiter-api:5.6.2"
+    implementation "org.mockito:mockito-core:3.5.7"
+    implementation "org.mockito:mockito-junit-jupiter:3.5.7"
+    implementation "javax.ws.rs:javax.ws.rs-api:2.1.1"
+    implementation "com.googlecode.json-simple:json-simple:1.1.1"
+}
+
+javafx{
+    modules=['javafx.controls']
+}
+
+mainClassName = 'MyAppZomato'

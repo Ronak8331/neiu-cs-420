@@ -1,0 +1,20 @@
+Singapore---The Curry Culture---4.0---11 AM to 11 PM (Mon-Thu), 24 Hours (Fri-Sun)---Continental, Indian, Asian
+Kolkata---AB's - Absolute Barbecues---4.4---12noon – 3pm, 6:30pm – 10pm (Mon-Sun)---European, Mediterranean, North Indian, Salad, Desserts
+Singapore---Cut By Wolfgang Puck---4.1---5:30 PM to 11 PM (Mon, Tue, Wed, Thu, Sun), 5:30 PM to 12 Midnight (Fri-Sat)---American, Steak
+Rourkela---Sai Restaurant---4.0---11 AM to 11 PM---North Indian, Biryani, Chinese, Rolls, Seafood
+Singapore---Burnt Ends---4.0---6 PM to 12 Midnight (Mon-Tue),11:45 AM to 2 PM, 6 PM to 12 Midnight (Wed-Sat),Closed (Sun)---American, European, Australian, Steak
+Rourkela---The Cakery Bakery---4.0---11 AM to 11 PM---Mithai, Street Food, Bakery, Chinese, Pizza, South Indian
+Braga---Taberna Belga---3.6---12 Noon to 11 PM (Mon-Sat), 6 PM to 11 PM (Sun)---Petiscos, Portuguese
+Singapore---Jaan---4.4---12 Noon to 2:30 PM, 7 PM to 11 PM (Mon-Sat),7 PM to 11 PM (Sun)---French
+Singapore---Colony---4.0---6:30 AM to 10:30 PM (Mon-Sun)---Asian, Continental, Seafood, Bakery
+Singapore---Artistry---3.8---Closed (Mon),9 AM to 11 PM (Tue-Sun)---American, Bakery, European, Burger, Fusion
+Singapore---Fratini La Trattoria---3.9---Closed (Mon),12 Noon to 1:45 PM, 6 PM to 8:45 PM (Tue-Sun)---Italian
+Singapore---Wild Honey---4.1---9 AM to 8 PM (Mon, Tue, Wed, Thu, Sun), 9 AM to 9 PM (Fri-Sat)---European, Spanish, American, Cafe
+Singapore---Corner House---3.9---Closed (Mon),12 Noon to 3 PM, 6:30 PM to 11 PM (Tue-Sat),11:30 AM to 3 PM, 6:30 PM to 11 PM (Sun)---Continental, French
+Singapore---Restaurant Andre---3.9---Closed (Mon, Sun), 12 Noon to 3 PM, 7 PM to 11 PM (Tue-Sat)---French, Mediterranean, European
+Singapore---Carousel---4.0---6 AM to 9:30 PM (Mon-Sun)---Mediterranean, Asian, Japanese, Sushi, Seafood, French
+Singapore---Melt Cafe---4.1---6:30 AM to 9:30 PM (Mon-Sun)---Singaporean, European, Seafood, Indian, Japanese, Continental
+Singapore---Rhubarb Le Restaurant---3.7---11:45 AM to 2:30 PM, 6:30 PM to 10 PM (Mon-Fri),6 PM to 10:30 PM (Sat),Closed (Sun)---French
+Singapore---Summer Pavilion---3.7---11:30 AM to 2:30 PM, 6:30 PM to 10:30 PM (Mon-Sun)---Chinese, Seafood, Cantonese, Dim Sum
+Singapore---Lau Pa Sat---4.2---24 Hours (Mon-Sun)---Indonesian, Singaporean, Chinese, Vietnamese, Seafood, Japanese
+Singapore---Basilico---3.9---6:30 AM to 10:30 AM, 12 Noon to 2:30 PM, 6:30 PM to 10 PM (Mon-Sat),7 AM to 10:30 AM, 12 Noon to 3 PM, 6:30 PM to 10 PM (Sun)---Italian
