@@ -1,0 +1,95 @@
+Florence-Roebling---Asian House---0---11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),12 Noon to 10 PM (Sun)---Chinese, Japanese, Sushi
+Chandrapur---RASRAJ RESTAURENT---4.1---11 AM to 11 PM---Bakery, Fast Food, Chinese, Pizza, Sandwich, North Indian, South Indian
+Bardhaman---Gossip---4.2---12 Midnight to 10 PM (Mon), Tue, Wed, Thu, Fri, Sat & Sun Closed---North Indian, Chinese, Seafood, Italian, Fast Food
+Singapore---The Curry Culture---4.0---11 AM to 11 PM (Mon-Thu), 24 Hours (Fri-Sun)---Continental, Indian, Asian
+Kolkata---AB's - Absolute Barbecues---4.4---12noon – 3pm, 6:30pm – 10pm (Mon-Sun)---European, Mediterranean, North Indian, Salad, Desserts
+Singapore---Burnt Ends---4.0---6 PM to 12 Midnight (Mon-Tue),11:45 AM to 2 PM, 6 PM to 12 Midnight (Wed-Sat),Closed (Sun)---American, European, Australian, Steak
+Baddi---Deep Sweets And Restaurant---4.3---8 AM to 10:30 PM---North Indian, Chinese, South Indian
+Singapore---Cut By Wolfgang Puck---4.1---5:30 PM to 11 PM (Mon, Tue, Wed, Thu, Sun), 5:30 PM to 12 Midnight (Fri-Sat)---American, Steak
+Singapore---Artistry---3.8---Closed (Mon),9 AM to 11 PM (Tue-Sun)---American, Bakery, European, Burger, Fusion
+Singapore---Jaan---4.4---12 Noon to 2:30 PM, 7 PM to 11 PM (Mon-Sat),7 PM to 11 PM (Sun)---French
+Singapore---Colony---4.0---6:30 AM to 10:30 PM (Mon-Sun)---Asian, Continental, Seafood, Bakery
+Singapore---Fratini La Trattoria---3.9---Closed (Mon),12 Noon to 1:45 PM, 6 PM to 8:45 PM (Tue-Sun)---Italian
+Sitapur---Rajasthani Restaurant ---4.0---11 AM to 10:30 PM---North Indian, South Indian, Chinese, Italian, Desserts
+Singapore---Wild Honey---4.1---9 AM to 8 PM (Mon, Tue, Wed, Thu, Sun), 9 AM to 9 PM (Fri-Sat)---European, Spanish, American, Cafe
+Singapore---Corner House---3.9---Closed (Mon),12 Noon to 3 PM, 6:30 PM to 11 PM (Tue-Sat),11:30 AM to 3 PM, 6:30 PM to 11 PM (Sun)---Continental, French
+North Okanagan B---Squires Four Public House---3.9---11 AM to 11 PM---Burger, Bar Food, Seafood
+Singapore---Restaurant Andre---3.9---Closed (Mon, Sun), 12 Noon to 3 PM, 7 PM to 11 PM (Tue-Sat)---French, Mediterranean, European
+Singapore---Carousel---4.0---6 AM to 9:30 PM (Mon-Sun)---Mediterranean, Asian, Japanese, Sushi, Seafood, French
+Singapore---Melt Cafe---4.1---6:30 AM to 9:30 PM (Mon-Sun)---Singaporean, European, Seafood, Indian, Japanese, Continental
+Singapore---Rhubarb Le Restaurant---3.7---11:45 AM to 2:30 PM, 6:30 PM to 10 PM (Mon-Fri),6 PM to 10:30 PM (Sat),Closed (Sun)---French
+Singapore---Lau Pa Sat---4.2---24 Hours (Mon-Sun)---Indonesian, Singaporean, Chinese, Vietnamese, Seafood, Japanese
+Singapore---Summer Pavilion---3.7---11:30 AM to 2:30 PM, 6:30 PM to 10:30 PM (Mon-Sun)---Chinese, Seafood, Cantonese, Dim Sum
+Singapore---Sky On 57---3.9---11 AM to 12:30 AM (Mon-Sun)---Chinese, Continental, Singaporean
+Singapore---Basilico---3.9---6:30 AM to 10:30 AM, 12 Noon to 2:30 PM, 6:30 PM to 10 PM (Mon-Sat),7 AM to 10:30 AM, 12 Noon to 3 PM, 6:30 PM to 10 PM (Sun)---Italian
+Braga---Taberna Belga---3.6---12 Noon to 11 PM (Mon-Sat), 6 PM to 11 PM (Sun)---Petiscos, Portuguese
+Krishnagiri ---Dindigul Thalappakatti---3.8---11:30 AM to 11 PM---Biryani, Chinese, North Indian
+Mandi---Blues Cafe---3.9---11am – 9pm (Mon-Sun)---Cafe
+Singapore---Edge---3.3---12 Noon to 2:30 PM, 6:30 PM to 10:30 PM (Mon-Sun)---Chinese, Thai, Japanese, Italian
+Singapore---Komala Vilas Restaurant---3.9---7 AM to 10:30 PM (Mon-Sun)---Indian, North Indian, South Indian
+Jalgaon---TANDOOR RESTAURANT---3.7---11am – 11:30pm (Mon-Sun)---Roast Chicken, Modern Indian, Chinese, Charcoal Chicken, BBQ
+Singapore---Lagnaa Barefoot Dining---3.6---11:30 AM to 10:30 PM (Mon-Sun)---South Indian, North Indian
+Singapore---Peach Blossoms---3.1---12 Noon to 2:30 PM, 6:30 PM to 10:30 PM (Mon-Fri),11 AM to 2:30 PM, 6:30 PM to 10:30 PM (Sat-Sun)---Singaporean, Chinese, Dim Sum, Healthy Food, Seafood, Cantonese
+Singapore---Makansutra Gluttons Bay---3.9---5 PM to 2 AM (Mon-Thu),5 PM to 3 AM (Fri-Sat),4 PM to 2 AM (Sun)---Singaporean, Chinese, Seafood, Malay, Indian
+Singapore---My Awesome Cafe---3.9---7:45 AM to 12 Midnight (Mon-Fri),8:45 AM to 12 Midnight (Sat-Sun)---Continental, European
+Muzaffarnagar---Gappu Gol---4.0---10am – 10pm (Mon-Sat),10am – 10:15pm (Sun)---Fast Food, Pizza
+Singapore---Singapore Zam Zam Restaurant---4.0---7 AM to 11 PM (Mon-Sun)---South Indian, Singaporean, Middle Eastern, Indian
+Santarém---Dois Petiscos---3.5---12 Noon to 11 PM (Mon, Thu-Sun), Tue & Wed Closed---Portuguese, Mediterranean
+Singapore---I am...---3.7---11 AM to 11 PM (Mon-Thu),11 AM to 1 AM (Fri-Sat),11 AM to 10 PM (Sun)---Cafe, Fusion, Western
+Singapore---10 At Claymore---3.0---6:30 AM to 11 PM (Mon-Sun)---European
+Singapore---Symmetry---3.6---10:30 AM to 9 PM (Mon),10:30 AM to 11 PM (Tue-Thu),10:30 AM to 12 Midnight (Fri),9 AM to 12 Midnight (Sat),9 AM to 7 PM (Sun)---Continental, Bar Food
+Singapore---Tippling Club---3.9---12 Noon to 3 PM, 6 PM to 12 Midnight (Mon-Fri),6 PM to 12 Midnight (Sat),Closed (Sun)---Italian, European
+Singapore---FOC Restaurant---3.8---12 Noon to 2 PM, 6 PM to 10 PM (Mon-Fri),Closed (Sat-Sun)---Spanish
+Singapore---Nox - Dine In The Dark---3.9---6 PM to 12 Midnight (Mon-Fri),5 PM to 12 Midnight (Sat-Sun)---Asian, French, Fusion
+Singapore---Boufe Boutique Cafe---3.3---8 AM to 7 PM (Mon-Fri),9 AM to 7 PM (Sat-Sun)---Cafe, French, Bakery, Italian
+Singapore---Adrift By David Myers---3.9---12 Noon to 2:30 PM, 6 PM to 10 PM (Mon-Sun)---American, Asian, Continental, Fusion
+Singapore---Super Loco---3.5---5pm – 11pm (Mon-Tue),5pm – 12midnight (Wed-Fri),10am – 12midnight (Sat),10am – 11pm (Sun)---American, Mexican
+Singapore---Non Entree Dessert Cafe---3.7---Closed (Mon),2 PM to 10 PM (Tue-Thu),2 PM to 11 PM (Fri),12 Noon to 11 PM (Sat),12 Noon to 10 PM (Sun)---Desserts, Bakery
+Singapore---Flutes---3.6---11:30 AM to 10 PM (Mon-Fri),10 AM to 10:30 PM (Sat),10 AM to 5 PM (Sun)---European, Middle Eastern
+Singapore---Salt Grill & Sky Bar---3.9---11 AM to 11 PM (Mon-Sun)---European, Seafood, Australian, Steak
+Singapore---Bistecca Tuscan Steakhouse---3.9---6 PM to 10 PM (Mon),12 Noon to 2 PM, 6 PM to 10 PM (Tue-Sun)---American, Continental, Italian, Pizza, Steak
+Singapore---LeVeL33---3.9---11:30 AM to 12 Midnight (Mon-Wed),11:30 AM to 12 Midnight, 2 AM to 12 Midnight (Thu-Sat),12 Noon to 12 Midnight (Sun)---Continental, Bar Food
+Singapore---Curious Palette---3.9---9 AM to 10 PM (Mon, Wed, Thu, Sun), Closed (Tue),9 AM to 12 Midnight (Fri-Sat)---American
+Singapore---Potato Head Singapore---3.5---Closed (Mon),11 AM to 12 Midnight (Tue-Sun)---American
+Singapore---The Lokal---3.5---9 AM to 9 PM (Wed-Sun), Mon & Tue Closed---Singaporean, Australian, German
+Chandrapur---Uncle Da Dhaba---3.9---6 PM to 12 Midnight---North Indian, Biryani, Chinese, Beverages
+Chandrapur---Morsels Eatery---3.9---11 AM to 11 PM---South Indian, North Indian, Sandwich, Burger, Rolls, Chinese
+Singapore---Pacamara Boutique Coffee Roasters---3.6---9 AM to 11 PM (Mon-Sun)---Cafe
+Singapore---Equinox Restaurant---3.8---12 Noon to 2:30 AM (Mon-Sat),11 AM to 2:30 AM (Sun)---European, Asian
+Singapore---Sunday Folks---3.5---Closed (Mon),1 PM to 10 PM (Tue-Thu),1 PM to 11 PM (Fri),12 Noon to 11 PM (Sat),12 Noon to 10 PM (Sun)---Cafe, Bakery
+Derby---Jila Gallery Cafe---3.9---Closed (Mon),6 PM to 8:30 PM (Tue-Sat),5:30 PM to 7:30 PM (Sun)---Cafe Food
+Singapore---Ronin Cafe---3.9---8 AM to 6 PM (Mon-Sun)---Cafe
+Singapore---Crossroads Cafe---3.5---7 AM to 1 AM (Mon, Tue, Wed, Thu, Sun), 7 AM to 2 AM (Fri-Sat)---American, European, Singaporean
+Chandrapur---Hotel Siddharth Premiere---3.9---10 AM to 10 PM---South Indian, North Indian, Biryani, Continental, Chinese
+Singapore---Tiffin Room---3.9---6:30 AM to 10:30 AM, 12 Noon to 2 PM, 3 PM to 10 PM (Mon-Sun)---North Indian, Indian, South Indian, American
+Singapore---Tai Hwa Pork Noodles---3.9---9:30 AM to 9 PM (Mon-Sun)---Singaporean, Chinese
+Barwon Heads---Beach House Barwon Heads---4.1---9 AM to 9 PM (Mon-Wed),9 AM to 11 PM (Thu-Fri),8 AM to 11 PM (Sat-Sun)---Modern Australian, Australian
+Singapore---Odette---3.9---7 PM to 9:30 PM (Mon-Sat),Closed (Sun)---Continental, French
+Singapore---Rosso Vino---3.9---3 PM to 1 AM (Mon-Sun)---Italian
+Seaford---Hard To Handle Sub Shop---3.9---Closed (Mon, Sun), 11 AM to 7 PM (Tue-Sat)---American, Burger, Sandwich
+Singapore---The White Rabbit---3.9---Closed (Mon),12 Noon to 2:30 PM, 6:30 PM to 10:30 PM (Tue-Fri),10:30 AM to 3 PM, 6:30 PM to 10:30 PM (Sat-Sun)---European, French
+Kolhapur---Akkis Bistro---4.0---11 AM to 10 PM---Continental, Cafe, Burger, Pizza, Italian, American, Fast Food
+Kharagpur---Domino's Pizza---3.5---10:57 AM to 11 PM---Pizza, Fast Food
+Hopatcong---3 in 1 Deli & Grocery---3.9---Breakfast, Lunch, Dinner, Late (Sun, Mon, Tue, Wed, Thu, Fri, Sat)---Breakfast, Sandwich
+Singapore---L'atelier Tiramisu---3.2---12 Noon to 9 PM (Mon-Fri),1 PM to 10 PM (Sat),1 PM to 7 PM (Sun)---Cafe, Bakery
+Singapore---Artichoke Cafe---3.9---Closed (Mon),6:30 PM to 10:30 PM (Tue-Fri),11:30 AM to 3:30 PM, 6:30 PM to 10:30 PM (Sat),11:30 AM to 3:30 PM (Sun)---Middle Eastern
+Singapore---Brawn & Brains---3.7---Closed (Mon),8:30 AM to 6 PM (Tue-Fri),9:30 AM to 6 PM (Sat-Sun)---Cafe, Sandwich
+Harrington---Stargate Diner Restaurant---3.7---Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)---American, Diner
+Singapore---Grain Traders---3.6---8 AM to 8 PM (Mon-Fri),Closed (Sat-Sun)---Salad, Healthy Food, Western, Cafe
+Singapore---Clinton St Baking Company---3.7---9 AM to 6 PM (Mon-Thu),8 AM to 10 PM (Fri),8 AM to 8 PM (Sat-Sun)---Cafe, Bakery, Desserts
+Singapore---The Populus Coffee & Food Co---3.6---9 AM to 7 PM (Mon, Wed), 9 AM to 4 PM (Tue),9 AM to 10:30 PM (Thu-Fri),9:30 AM to 10:30 PM (Sat),9:30 AM to 7 PM (Sun)---American, Cafe, Italian
+Singapore---Open Farm Community---3.8---12 Noon to 4 PM, 6 PM to 10 PM (Mon-Fri),11 AM to 4 PM, 6 PM to 10 PM (Sat-Sun)---Italian, Australian, Healthy Food, Fusion
+Moradabad---Pizza Unique---4.0---11 AM to 11 PM---Pizza, Fast Food, Desserts, Burger, Italian
+Singapore---Marriott Cafe---3.9---6 AM to 11 AM, 12 Noon to 2:30 PM, 6:30 PM to 10 PM (Mon-Sun)---Singaporean, Chinese, Seafood
+Singapore---Manhattan Bar---3.9---5 PM to 1 AM (Mon-Thu),5 PM to 2 AM (Fri-Sat),11:30 AM to 3:30 AM (Sun)---American
+Singapore---Db Bistro & Oyster Bar---4.1---12 Noon to 10 PM (Mon),12 Noon to 11 PM (Tue-Fri),11 AM to 11 PM (Sat),11 AM to 10 PM (Sun)---American, Continental, French, Seafood
+Tiruppur---Dindigul Thalappakatti---4.0---10 AM to 11 PM---Tamil, South Indian, Biryani
+Singapore---Lolla---3.3---12 Noon to 2:30 PM, 6 PM to 11 PM (Mon-Sat),10:30 AM to 3 PM (Sun)---Continental, Spanish
+Agra---The Salt Cafe Kitchen & Bar---4.7---11:30am – 1am (Mon-Sun)---North Indian, Continental, Chinese, Italian
+Bettiah---Food Junction---3.4---11:30 AM to 9:30 PM---Asian, Bihari, Burger, Cafe, Chinese, Continental, Desserts, Fast Food
+Chandrapur---Veg Junction---4.0---10am – 10pm (Mon-Sun)---Chinese, Maharashtrian, Pizza, Burger, Sandwich, Desserts, Beverages, South Indian
+Firozpur---The Hawkers---4.7---11 AM to 10 PM---Burger, Sandwich, Wraps, Juices, Beverages
+Kollam---HOLBORN---4.0---12 Noon to 10:30 PM---Arabian, Cafe
+Singapore---The Refinery Singapore---3.4---Closed (Mon),12 Noon to 3 PM, 6 PM to 12 Midnight (Tue-Thu),12 Noon to 3 PM, 6 PM to 1 AM (Fri),11 AM to 4 PM, 6 PM to 1 AM (Sat),11 AM to 4 PM, 7 PM to 8 PM (Sun)---American, Japanese, Singaporean
+Laidley---Three-Sons Cafe---3.9---Closed (Mon),6 AM to 4 PM (Tue-Fri),7 AM to 2 PM (Sat-Sun)---Cafe Food
+Moorhead---Thai Orchid Restaurant---3.9---11 AM to 2:30 PM, 4:30 PM to 8:30 PM (Mon-Sat), Sun Closed---Thai, Vegetarian
